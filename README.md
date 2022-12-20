@@ -2,7 +2,7 @@
 
 
 
-:star: [Requirement of test](https://groovy-dahlia-91d.notion.site/Frontend-Engineer-9af0a177379e4ff8a7a74d3a84dc4ac9)
+:star: [Requirement of test](https://github.com/chiper-inc/React-Native-Coding-Challenge)
 
 This is a sample application that demonstrates how to list data previusly loaded from an API. The application loads posts from Reddit database and displays them. Users can select to display posts opening a link and seeing an screen using react-native-webview package. The application uses hooks (useEffect, useState, useNavigation) it is built in typeScript and React Native.
 
