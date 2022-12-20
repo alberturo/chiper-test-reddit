@@ -16,7 +16,10 @@ I have import the data from [link](https://api.reddit.com/r/pics/hot.json) as it
 
 
 Here we can see the app running.
-![](https://github.com/alberturo/chiper-test-reddit/blob/main/ezgif.com-gif-maker.gif?raw=true)
+
+<p>
+  <img alt="gif" src="https://github.com/alberturo/chiper-test-reddit/blob/main/ezgif.com-gif-maker.gif" width="450" height="650" />
+</p>
 
 
 ## Getting Started
